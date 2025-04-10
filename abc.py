@@ -1,3 +1,4 @@
-for i in range(1,10):
-    print('swastik')
-    print('ss')
+def print_swastik():
+    for i in range(1,10):
+        print('swastik')
+        print('ss')
